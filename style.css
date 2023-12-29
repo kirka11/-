@@ -31,7 +31,7 @@ h1 p{
     font-weight: 600;
 }
 h1{
-    margin: 40px 250px 25px 250px;
+    margin: 40px auto 25px auto;
     width: 336px;
     height: 60px;
 }
