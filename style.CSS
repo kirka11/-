@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+    background-color: #E3E5F9;   
+}
+header {
+    background-color: #A495B5;
+    height: 220px;
+    display: flex;
+}
+header p {
+    color: white;
+    font-size: 70px;
+    margin-bottom: 50px;
+    margin-top: 80px;
+    float: left;
+    text-align: center;
+    width: 100%;
+    font-weight: 600;
+}
+.logo{
+    margin-left: 12px;
+    margin-top: 4px;
+}
+h1 p{
+    border: 1px solid #CBCEE6;
+    background-color: #CBCEE6;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+h1{
+    margin: 40px 250px 25px 250px;
+    width: 336px;
+    height: 60px;
+}
+
+h1 img{
+    height: 30px;
+    padding-bottom: 1px;
+    margin-top: 1px;
+}
+h2{
+    padding-left: 25px;
+    padding-right: 5px;
+    text-align: left;
+    border: 1px solid #CBCEE6;
+    background-color: #CBCEE6;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.one{
+    width: 180px;
+}
+.o{
+    font-weight: 400;
+    text-align: center;
+}
+.o td{
+    border: 0px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.o1{
+    width: 60%;
+}
+table{
+    width: 100%;
+}
+.tab{
+    text-align: center;
+}
+.c{
+    color: #7A5791;
+    font-size: larger;
+    padding-top: 20px;
+}
+.tab td img{
+    border: 1px solid #7A5791;
+    border-radius: 30px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+footer{
+    background-color: #464A63;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer p {
+    text-align: center;
+    font-size: 17px;
+}
